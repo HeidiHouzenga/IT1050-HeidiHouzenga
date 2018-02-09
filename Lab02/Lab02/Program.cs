@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Addition
+   class Addition
 {
     static void Main()
     {
