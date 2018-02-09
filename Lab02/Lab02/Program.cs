@@ -2,15 +2,14 @@
 
    class Addition
 {
-    static void Main()
-    {
-        //addition-question2
-        int number1;
+       static void Main()
+       {
         int number2;
         int sum;
 
         Console.Write("enter first integer: ");
-        number1 = int.Parse(Console.ReadLine());
+        //addition-question2
+        int number1 = int.Parse(Console.ReadLine());
         Console.Write("Enter second integer:  ");
         number2 = int.Parse(Console.ReadLine());
 
@@ -36,7 +35,7 @@
         Console.WriteLine("Hello\nWorld");
         Console.WriteLine("\"Hello World\"");
         Console.WriteLine("Hello\\World");
-    }
+        }
 }
 
 
