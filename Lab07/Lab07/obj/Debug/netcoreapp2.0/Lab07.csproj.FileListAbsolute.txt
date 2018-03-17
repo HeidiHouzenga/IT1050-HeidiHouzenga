@@ -1,0 +1,11 @@
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\Lab07\Lab07\obj\Debug\netcoreapp2.0\Lab07.csprojResolveAssemblyReference.cache
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\Lab07\Lab07\obj\Debug\netcoreapp2.0\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\Lab07\Lab07\obj\Debug\netcoreapp2.0\Lab07.AssemblyInfoInputs.cache
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\Lab07\Lab07\obj\Debug\netcoreapp2.0\Lab07.AssemblyInfo.cs
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\Lab07\Lab07\bin\Debug\netcoreapp2.0\Lab07.deps.json
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\Lab07\Lab07\bin\Debug\netcoreapp2.0\Lab07.runtimeconfig.json
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\Lab07\Lab07\bin\Debug\netcoreapp2.0\Lab07.runtimeconfig.dev.json
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\Lab07\Lab07\bin\Debug\netcoreapp2.0\Lab07.dll
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\Lab07\Lab07\bin\Debug\netcoreapp2.0\Lab07.pdb
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\Lab07\Lab07\obj\Debug\netcoreapp2.0\Lab07.dll
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\Lab07\Lab07\obj\Debug\netcoreapp2.0\Lab07.pdb
