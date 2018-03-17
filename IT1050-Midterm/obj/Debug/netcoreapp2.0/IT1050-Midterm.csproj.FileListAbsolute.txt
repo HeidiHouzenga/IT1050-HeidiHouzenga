@@ -1,0 +1,11 @@
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\IT1050-Midterm\IT1050-Midterm\obj\Debug\netcoreapp2.0\IT1050-Midterm.csprojResolveAssemblyReference.cache
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\IT1050-Midterm\IT1050-Midterm\obj\Debug\netcoreapp2.0\IT1050-Midterm.csproj.CoreCompileInputs.cache
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\IT1050-Midterm\IT1050-Midterm\obj\Debug\netcoreapp2.0\IT1050-Midterm.AssemblyInfoInputs.cache
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\IT1050-Midterm\IT1050-Midterm\obj\Debug\netcoreapp2.0\IT1050-Midterm.AssemblyInfo.cs
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\IT1050-Midterm\IT1050-Midterm\bin\Debug\netcoreapp2.0\IT1050-Midterm.deps.json
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\IT1050-Midterm\IT1050-Midterm\bin\Debug\netcoreapp2.0\IT1050-Midterm.runtimeconfig.json
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\IT1050-Midterm\IT1050-Midterm\bin\Debug\netcoreapp2.0\IT1050-Midterm.runtimeconfig.dev.json
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\IT1050-Midterm\IT1050-Midterm\bin\Debug\netcoreapp2.0\IT1050-Midterm.dll
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\IT1050-Midterm\IT1050-Midterm\bin\Debug\netcoreapp2.0\IT1050-Midterm.pdb
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\IT1050-Midterm\IT1050-Midterm\obj\Debug\netcoreapp2.0\IT1050-Midterm.dll
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\IT1050-Midterm\IT1050-Midterm\obj\Debug\netcoreapp2.0\IT1050-Midterm.pdb
