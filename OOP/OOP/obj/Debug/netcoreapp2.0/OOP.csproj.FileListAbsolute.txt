@@ -1,0 +1,11 @@
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\OOP\OOP\bin\Debug\netcoreapp2.0\OOP.deps.json
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\OOP\OOP\bin\Debug\netcoreapp2.0\OOP.runtimeconfig.json
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\OOP\OOP\bin\Debug\netcoreapp2.0\OOP.runtimeconfig.dev.json
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\OOP\OOP\bin\Debug\netcoreapp2.0\OOP.dll
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\OOP\OOP\bin\Debug\netcoreapp2.0\OOP.pdb
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\OOP\OOP\obj\Debug\netcoreapp2.0\OOP.csprojResolveAssemblyReference.cache
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\OOP\OOP\obj\Debug\netcoreapp2.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\OOP\OOP\obj\Debug\netcoreapp2.0\OOP.AssemblyInfoInputs.cache
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\OOP\OOP\obj\Debug\netcoreapp2.0\OOP.AssemblyInfo.cs
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\OOP\OOP\obj\Debug\netcoreapp2.0\OOP.dll
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\OOP\OOP\obj\Debug\netcoreapp2.0\OOP.pdb
