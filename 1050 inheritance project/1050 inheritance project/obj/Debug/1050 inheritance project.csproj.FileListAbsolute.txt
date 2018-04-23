@@ -1,0 +1,7 @@
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\1050 inheritance project\1050 inheritance project\bin\Debug\1050 inheritance project.exe.config
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\1050 inheritance project\1050 inheritance project\bin\Debug\1050 inheritance project.exe
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\1050 inheritance project\1050 inheritance project\bin\Debug\1050 inheritance project.pdb
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\1050 inheritance project\1050 inheritance project\obj\Debug\1050 inheritance project.csprojResolveAssemblyReference.cache
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\1050 inheritance project\1050 inheritance project\obj\Debug\1050 inheritance project.csproj.CoreCompileInputs.cache
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\1050 inheritance project\1050 inheritance project\obj\Debug\1050 inheritance project.exe
+C:\Users\heidi\Source\Repos\IT1050-HeidiHouzenga\1050 inheritance project\1050 inheritance project\obj\Debug\1050 inheritance project.pdb
